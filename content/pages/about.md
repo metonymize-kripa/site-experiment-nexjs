@@ -2,7 +2,7 @@
 title: About us
 sections:
   - type: hero_section
-    title: Who We Are
+    title: What we care about
     align: center
   - type: content_section
     content: >-
