@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Cross-silo learning
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Share intelligence without federating or sharing data.
     actions:
       - label: Learn More
         url: /features
